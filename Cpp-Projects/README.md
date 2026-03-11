@@ -11,5 +11,10 @@ This directory contains a collection of C++ programs developed for academic purp
 * Computing the product of elements in the **Lower-Secondary region** (using conditional indexing $i+j > n-1$).
 
 **Key Concepts:** Nested loops, 2D Arrays (Vectors), and Conditional Logic.
+## 2. Student Grading & Performance System
+**File:** `Student_Grades_Manager.cpp`
 
+**Description:** An educational application developed to manage and analyze student academic records. It calculates individual averages, determines grade classifications (A, B, C, etc.), and identifies the highest performing student in a class.
+
+**Key Concepts:** Structs (for data organization), Array Processing, and Decision-making logic.
 
