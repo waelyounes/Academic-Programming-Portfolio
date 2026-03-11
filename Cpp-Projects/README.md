@@ -17,4 +17,12 @@ This directory contains a collection of C++ programs developed for academic purp
 **Description:** An educational application developed to manage and analyze student academic records. It calculates individual averages, determines grade classifications (A, B, C, etc.), and identifies the highest performing student in a class.
 
 **Key Concepts:** Structs (for data organization), Array Processing, and Decision-making logic.
+## 3. Object-Oriented Programming: Inheritance Demonstration
+**File:** `OOP_Inheritance_Example.cpp`
+
+**Description:** An academic project designed to illustrate the core concepts of Object-Oriented Programming (OOP) in C++. It demonstrates the relationship between a **Base Class (Parent)** and a **Derived Class (Child)**, focusing on access specifiers (`protected` vs `private`) and constructor initialization lists.
+
+**Key Concepts:** * **Inheritance:** Reuse of code from the Person class.
+* **Encapsulation:** Managing data access within the class hierarchy.
+* **Academic Context:** Modeled after a university staffing system.
 
